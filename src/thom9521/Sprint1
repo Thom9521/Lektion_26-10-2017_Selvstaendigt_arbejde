@@ -16,8 +16,8 @@ vi metoderne som er i klassen SuperclassBil.
 - Når man har kaldt constructoren, så kan man kalde metoderne ved at skrive setColor fx.
 
 5. Hvad er forskellen mellem overriding methods og overloading methods i Java? Eksempel i kode.
-- Når man overloader, så bruger man en andens kode uden at ændre i den.
-- Når man overrider, så bruger man en andens kode, hvor man ændre i den fx int til double.
+- Når man overrider, så bruger man en andens kode uden at ændre i den.
+- Når man overloader, så bruger man en andens kode, hvor man ændre i den fx int til double.
 
 6. Hvad er toString() metoden i Java? Eksempel i kode.
 - toString() metoden bruges når man skal override fra superclassen. Vi har lavet en toString() i SubclassAudi, som
